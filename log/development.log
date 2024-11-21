@@ -1,0 +1,635 @@
+Started GET "/" for ::1 at 2024-11-21 09:08:58 -0300
+  [1m[35m (0.3ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.2ms | Allocations: 198)
+  Rendered layout layouts/application.html.erb (Duration: 169.1ms | Allocations: 93877)
+Completed 200 OK in 184ms (Views: 174.3ms | ActiveRecord: 0.0ms | Allocations: 101173)
+
+
+Started GET "/" for ::1 at 2024-11-21 09:19:54 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 12)
+  Rendered layout layouts/application.html.erb (Duration: 46.8ms | Allocations: 7697)
+Completed 200 OK in 51ms (Views: 49.3ms | ActiveRecord: 0.0ms | Allocations: 8025)
+
+
+Started GET "/" for ::1 at 2024-11-21 09:20:07 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.0ms | Allocations: 10)
+  Rendered layout layouts/application.html.erb (Duration: 11.5ms | Allocations: 2784)
+Completed 200 OK in 13ms (Views: 12.2ms | ActiveRecord: 0.0ms | Allocations: 3069)
+
+
+Started GET "/" for ::1 at 2024-11-21 09:20:40 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 10.1ms | Allocations: 2733)
+Completed 200 OK in 12ms (Views: 10.8ms | ActiveRecord: 0.0ms | Allocations: 2975)
+
+
+Started GET "/" for ::1 at 2024-11-21 09:21:21 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 11.6ms | Allocations: 2726)
+Completed 200 OK in 13ms (Views: 12.4ms | ActiveRecord: 0.0ms | Allocations: 2967)
+
+
+Started GET "/" for ::1 at 2024-11-21 09:21:26 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 10.5ms | Allocations: 2736)
+Completed 200 OK in 12ms (Views: 11.2ms | ActiveRecord: 0.0ms | Allocations: 2983)
+
+
+Started GET "/" for ::1 at 2024-11-21 09:29:13 -0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.3ms | Allocations: 198)
+  Rendered layout layouts/application.html.erb (Duration: 44.6ms | Allocations: 43089)
+Completed 200 OK in 52ms (Views: 47.8ms | ActiveRecord: 0.0ms | Allocations: 47423)
+
+
+Started GET "/" for ::1 at 2024-11-21 09:29:46 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 12)
+  Rendered layout layouts/application.html.erb (Duration: 13.7ms | Allocations: 3192)
+Completed 200 OK in 16ms (Views: 14.7ms | ActiveRecord: 0.0ms | Allocations: 3499)
+
+
+Started GET "/" for ::1 at 2024-11-21 09:29:48 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 5.1ms | Allocations: 1384)
+Completed 200 OK in 9ms (Views: 6.8ms | ActiveRecord: 0.0ms | Allocations: 1631)
+
+
+Started GET "/" for ::1 at 2024-11-21 09:29:53 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 16.3ms | Allocations: 2947)
+Completed 200 OK in 17ms (Views: 16.7ms | ActiveRecord: 0.0ms | Allocations: 3188)
+
+
+Started GET "/" for ::1 at 2024-11-21 09:30:55 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 4.4ms | Allocations: 1347)
+Completed 200 OK in 7ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 1588)
+
+
+Started GET "/" for ::1 at 2024-11-21 09:31:34 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.3ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 11.6ms | Allocations: 2643)
+Completed 200 OK in 19ms (Views: 15.2ms | ActiveRecord: 0.0ms | Allocations: 2890)
+
+
+Started GET "/" for ::1 at 2024-11-21 09:32:20 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.0ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 15.1ms | Allocations: 3171)
+Completed 200 OK in 17ms (Views: 15.9ms | ActiveRecord: 0.0ms | Allocations: 3412)
+
+
+Started GET "/" for ::1 at 2024-11-21 09:34:11 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 17.5ms | Allocations: 3206)
+Completed 200 OK in 21ms (Views: 18.9ms | ActiveRecord: 0.0ms | Allocations: 3448)
+
+
+Started GET "/" for ::1 at 2024-11-21 09:34:35 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 6.3ms | Allocations: 1458)
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms | Allocations: 1699)
+
+
+Started GET "/" for ::1 at 2024-11-21 09:44:42 -0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.3ms | Allocations: 198)
+  Rendered layout layouts/application.html.erb (Duration: 4478.9ms | Allocations: 146107)
+Completed 200 OK in 4489ms (Views: 4482.8ms | ActiveRecord: 0.0ms | Allocations: 150440)
+
+
+Started GET "/" for ::1 at 2024-11-21 09:45:17 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.4ms | Allocations: 131)
+  Rendered layout layouts/application.html.erb (Duration: 13.7ms | Allocations: 19175)
+Completed 200 OK in 22ms (Views: 16.1ms | ActiveRecord: 0.0ms | Allocations: 20250)
+
+
+Started GET "/..." for ::1 at 2024-11-21 09:45:17 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/..." for ::1 at 2024-11-21 09:45:22 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/" for ::1 at 2024-11-21 09:47:41 -0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.3ms | Allocations: 209)
+  Rendered layout layouts/application.html.erb (Duration: 118.5ms | Allocations: 67696)
+Completed 200 OK in 128ms (Views: 121.5ms | ActiveRecord: 0.0ms | Allocations: 72032)
+
+
+Started GET "/..." for ::1 at 2024-11-21 09:47:42 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/" for ::1 at 2024-11-21 09:47:58 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.2ms | Allocations: 153)
+  Rendered layout layouts/application.html.erb (Duration: 12.3ms | Allocations: 24439)
+Completed 200 OK in 14ms (Views: 13.2ms | ActiveRecord: 0.0ms | Allocations: 25521)
+
+
+Started GET "/..." for ::1 at 2024-11-21 09:47:58 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/" for ::1 at 2024-11-21 09:49:00 -0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.2ms | Allocations: 233)
+  Rendered layout layouts/application.html.erb (Duration: 4096.6ms | Allocations: 209890)
+Completed 200 OK in 4108ms (Views: 4101.6ms | ActiveRecord: 0.0ms | Allocations: 214228)
+
+
+Started GET "/..." for ::1 at 2024-11-21 09:49:05 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/" for ::1 at 2024-11-21 09:51:06 -0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.2ms | Allocations: 252)
+  Rendered layout layouts/application.html.erb (Duration: 95.4ms | Allocations: 65791)
+Completed 200 OK in 105ms (Views: 98.2ms | ActiveRecord: 0.0ms | Allocations: 70277)
+
+
+Started GET "/..." for ::1 at 2024-11-21 09:51:06 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/" for ::1 at 2024-11-21 09:58:20 -0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.3ms | Allocations: 252)
+  Rendered layout layouts/application.html.erb (Duration: 4012.5ms | Allocations: 147612)
+Completed 200 OK in 4020ms (Views: 4015.2ms | ActiveRecord: 0.0ms | Allocations: 151977)
+
+
+Started GET "/..." for ::1 at 2024-11-21 09:58:25 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/" for ::1 at 2024-11-21 09:58:57 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 3460.9ms | Allocations: 74212)
+Completed 200 OK in 3462ms (Views: 3461.6ms | ActiveRecord: 0.0ms | Allocations: 74499)
+
+
+Started GET "/..." for ::1 at 2024-11-21 09:59:00 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/" for ::1 at 2024-11-21 10:01:17 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.1ms | Allocations: 7)
+  Rendered layout layouts/application.html.erb (Duration: 3743.7ms | Allocations: 75807)
+Completed 200 OK in 3747ms (Views: 3745.1ms | ActiveRecord: 0.0ms | Allocations: 76060)
+
+
+Started GET "/..." for ::1 at 2024-11-21 10:01:21 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/" for ::1 at 2024-11-21 10:05:41 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 10.3ms | Allocations: 4752)
+  Rendered layout layouts/application.html.erb (Duration: 10.5ms | Allocations: 4841)
+Completed 500 Internal Server Error in 12ms (ActiveRecord: 0.0ms | Allocations: 5908)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `new_restaurant_path' for #<ActionView::Base:0x0000000000fa28>
+
+'.freeze; @output_buffer.append=( link_to "Create a new restaurant", new_restaurant_path , class: "btn btn-magic" );
+                                                                     ^^^^^^^^^^^^^^^^^^^):
+    51:   <button type="submit" class="btn btn-primary">Submit</button>
+    52: </form>
+    53: 
+    54: <%= link_to "Create a new restaurant", new_restaurant_path , class: "btn btn-magic" %>
+  
+app/views/pages/home.html.erb:54
+Started GET "/" for ::1 at 2024-11-21 10:05:48 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.5ms | Allocations: 308)
+  Rendered layout layouts/application.html.erb (Duration: 3555.5ms | Allocations: 98356)
+Completed 200 OK in 3557ms (Views: 3556.7ms | ActiveRecord: 0.0ms | Allocations: 99429)
+
+
+Started GET "/..." for ::1 at 2024-11-21 10:05:52 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/" for ::1 at 2024-11-21 10:06:31 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.1ms | Allocations: 280)
+  Rendered layout layouts/application.html.erb (Duration: 20.6ms | Allocations: 27394)
+Completed 200 OK in 25ms (Views: 23.6ms | ActiveRecord: 0.0ms | Allocations: 28466)
+
+
+Started GET "/..." for ::1 at 2024-11-21 10:06:31 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/" for ::1 at 2024-11-21 10:07:45 -0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.4ms | Allocations: 447)
+Started GET "/" for ::1 at 2024-11-21 10:07:45 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.3ms | Allocations: 63)
+  Rendered layout layouts/application.html.erb (Duration: 6419.0ms | Allocations: 228392)
+Completed 200 OK in 6427ms (Views: 6421.5ms | ActiveRecord: 0.0ms | Allocations: 232735)
+
+
+  Rendered layout layouts/application.html.erb (Duration: 6521.7ms | Allocations: 208806)
+Completed 200 OK in 6526ms (Views: 6524.2ms | ActiveRecord: 0.0ms | Allocations: 209363)
+
+
+Started GET "/..." for ::1 at 2024-11-21 10:07:52 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/" for ::1 at 2024-11-21 10:09:43 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.6ms | Allocations: 294)
+  Rendered layout layouts/application.html.erb (Duration: 24.0ms | Allocations: 27877)
+Completed 200 OK in 27ms (Views: 25.3ms | ActiveRecord: 0.0ms | Allocations: 28958)
+
+
+Started GET "/..." for ::1 at 2024-11-21 10:09:43 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/" for ::1 at 2024-11-21 10:09:54 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.2ms | Allocations: 42)
+  Rendered layout layouts/application.html.erb (Duration: 3720.9ms | Allocations: 78787)
+Completed 200 OK in 3722ms (Views: 3721.5ms | ActiveRecord: 0.0ms | Allocations: 79053)
+
+
+Started GET "/..." for ::1 at 2024-11-21 10:09:58 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/" for ::1 at 2024-11-21 10:11:47 -0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.4ms | Allocations: 460)
+  Rendered /Users/nicolasenne/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/hotwire-livereload-1.4.1/app/views/hotwire/livereload/_head_action_cable.html.erb (Duration: 1.8ms | Allocations: 879)
+  Rendered layout layouts/application.html.erb (Duration: 4278.0ms | Allocations: 234633)
+Completed 200 OK in 4287ms (Views: 4281.1ms | ActiveRecord: 0.0ms | Allocations: 239000)
+
+
+Started GET "/..." for ::1 at 2024-11-21 10:11:51 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/cable" for ::1 at 2024-11-21 10:11:51 -0300
+Started GET "/cable" [WebSocket] for ::1 at 2024-11-21 10:11:51 -0300
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: Upgrade, HTTP_UPGRADE: websocket)
+Unsubscribing from channel: {"channel":"Hotwire::Livereload::ReloadChannel"}
+Hotwire::Livereload::ReloadChannel stopped streaming from hotwire-reload
+Hotwire::Livereload::ReloadChannel is transmitting the subscription confirmation
+Hotwire::Livereload::ReloadChannel is streaming from hotwire-reload
+[ActionCable] Broadcasting to hotwire-reload: {:changed=>["/Users/nicolasenne/code/rails-front-end/app/views/pages/home.html.erb"], :force_reload=>false}
+Hotwire::Livereload::ReloadChannel transmitting {"changed"=>["/Users/nicolasenne/code/rails-front-end/app/views/pages/home.html.erb"], "force_reload"=>false} (via streamed from hotwire-reload)
+Started GET "/" for ::1 at 2024-11-21 10:11:52 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.3ms | Allocations: 292)
+  Rendered /Users/nicolasenne/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/hotwire-livereload-1.4.1/app/views/hotwire/livereload/_head_action_cable.html.erb (Duration: 1.0ms | Allocations: 833)
+  Rendered layout layouts/application.html.erb (Duration: 21.2ms | Allocations: 29969)
+Completed 200 OK in 23ms (Views: 22.0ms | ActiveRecord: 0.0ms | Allocations: 31069)
+
+
+Started GET "/..." for ::1 at 2024-11-21 10:11:52 -0300
+Started GET "/cable" for ::1 at 2024-11-21 10:11:52 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/cable" [WebSocket] for ::1 at 2024-11-21 10:11:52 -0300
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: Upgrade, HTTP_UPGRADE: websocket)
+Hotwire::Livereload::ReloadChannel is transmitting the subscription confirmation
+Hotwire::Livereload::ReloadChannel is streaming from hotwire-reload
+Started GET "/" for ::1 at 2024-11-21 10:14:47 -0300
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 93.9ms | Allocations: 61905)
+  Rendered /Users/nicolasenne/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/hotwire-livereload-1.4.1/app/views/hotwire/livereload/_head_action_cable.html.erb (Duration: 1.0ms | Allocations: 888)
+  Rendered layout layouts/application.html.erb (Duration: 133.5ms | Allocations: 92782)
+Completed 200 OK in 140ms (Views: 136.3ms | ActiveRecord: 0.0ms | Allocations: 97150)
+
+
+Started GET "/..." for ::1 at 2024-11-21 10:14:48 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/cable" for ::1 at 2024-11-21 10:14:48 -0300
+Started GET "/cable" [WebSocket] for ::1 at 2024-11-21 10:14:48 -0300
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: Upgrade, HTTP_UPGRADE: websocket)
+Hotwire::Livereload::ReloadChannel is transmitting the subscription confirmation
+Hotwire::Livereload::ReloadChannel is streaming from hotwire-reload
+Unsubscribing from channel: {"channel":"Hotwire::Livereload::ReloadChannel"}
+Hotwire::Livereload::ReloadChannel stopped streaming from hotwire-reload
+Hotwire::Livereload::ReloadChannel is transmitting the subscription confirmation
+Hotwire::Livereload::ReloadChannel is streaming from hotwire-reload
+[ActionCable] Broadcasting to hotwire-reload: {:changed=>["/Users/nicolasenne/code/rails-front-end/app/views/pages/home.html.erb"], :force_reload=>false}
+Hotwire::Livereload::ReloadChannel transmitting {"changed"=>["/Users/nicolasenne/code/rails-front-end/app/views/pages/home.html.erb"], "force_reload"=>false} (via streamed from hotwire-reload)
+Started GET "/" for ::1 at 2024-11-21 10:15:03 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.3ms | Allocations: 2601)
+  Rendered layout layouts/application.html.erb (Duration: 1.4ms | Allocations: 2690)
+Completed 500 Internal Server Error in 3ms (ActiveRecord: 0.0ms | Allocations: 3780)
+
+
+  
+ActionView::Template::Error (The asset "logo.jpg" is not present in the asset pipeline.
+):
+    57:   Breakfast
+    58: </div>
+    59: 
+    60: <%= image_tag "logo.jpg", alt: "Le Wagon", width: 200 %>
+  
+app/views/pages/home.html.erb:60
+Started GET "/..." for ::1 at 2024-11-21 10:15:04 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/cable" for ::1 at 2024-11-21 10:15:04 -0300
+Started GET "/cable" [WebSocket] for ::1 at 2024-11-21 10:15:04 -0300
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: Upgrade, HTTP_UPGRADE: websocket)
+Hotwire::Livereload::ReloadChannel is transmitting the subscription confirmation
+Hotwire::Livereload::ReloadChannel is streaming from hotwire-reload
+[ActionCable] Broadcasting to hotwire-reload: {:changed=>["/Users/nicolasenne/code/rails-front-end/app/views/pages/home.html.erb"], :force_reload=>false}
+Hotwire::Livereload::ReloadChannel transmitting {"changed"=>["/Users/nicolasenne/code/rails-front-end/app/views/pages/home.html.erb"], "force_reload"=>false} (via streamed from hotwire-reload)
+Started GET "/" for ::1 at 2024-11-21 10:15:10 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.3ms | Allocations: 1010)
+  Rendered /Users/nicolasenne/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/hotwire-livereload-1.4.1/app/views/hotwire/livereload/_head_action_cable.html.erb (Duration: 1.0ms | Allocations: 831)
+  Rendered layout layouts/application.html.erb (Duration: 15.2ms | Allocations: 30653)
+Completed 200 OK in 17ms (Views: 16.3ms | ActiveRecord: 0.0ms | Allocations: 31753)
+
+
+Started GET "/..." for ::1 at 2024-11-21 10:15:10 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/cable" for ::1 at 2024-11-21 10:15:10 -0300
+Started GET "/cable" [WebSocket] for ::1 at 2024-11-21 10:15:11 -0300
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: Upgrade, HTTP_UPGRADE: websocket)
+Unsubscribing from channel: {"channel":"Hotwire::Livereload::ReloadChannel"}
+Hotwire::Livereload::ReloadChannel stopped streaming from hotwire-reload
+Hotwire::Livereload::ReloadChannel is transmitting the subscription confirmation
+Hotwire::Livereload::ReloadChannel is streaming from hotwire-reload
+Hotwire::Livereload::ReloadChannel is transmitting the subscription confirmation
+Hotwire::Livereload::ReloadChannel is streaming from hotwire-reload
+[ActionCable] Broadcasting to hotwire-reload: {:changed=>["/Users/nicolasenne/code/rails-front-end/app/views/pages/home.html.erb"], :force_reload=>false}
+Hotwire::Livereload::ReloadChannel transmitting {"changed"=>["/Users/nicolasenne/code/rails-front-end/app/views/pages/home.html.erb"], "force_reload"=>false} (via streamed from hotwire-reload)
+Started GET "/" for ::1 at 2024-11-21 10:15:29 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.2ms | Allocations: 1003)
+  Rendered /Users/nicolasenne/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/hotwire-livereload-1.4.1/app/views/hotwire/livereload/_head_action_cable.html.erb (Duration: 0.7ms | Allocations: 833)
+  Rendered layout layouts/application.html.erb (Duration: 19.8ms | Allocations: 30467)
+Completed 200 OK in 22ms (Views: 21.3ms | ActiveRecord: 0.0ms | Allocations: 31564)
+
+
+Started GET "/..." for ::1 at 2024-11-21 10:15:29 -0300
+Started GET "/cable" for ::1 at 2024-11-21 10:15:29 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/cable" [WebSocket] for ::1 at 2024-11-21 10:15:29 -0300
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: Upgrade, HTTP_UPGRADE: websocket)
+Hotwire::Livereload::ReloadChannel is transmitting the subscription confirmation
+Hotwire::Livereload::ReloadChannel is streaming from hotwire-reload
+[ActionCable] Broadcasting to hotwire-reload: {:changed=>["/Users/nicolasenne/code/rails-front-end/app/views/pages/home.html.erb"], :force_reload=>false}
+Hotwire::Livereload::ReloadChannel transmitting {"changed"=>["/Users/nicolasenne/code/rails-front-end/app/views/pages/home.html.erb"], "force_reload"=>false} (via streamed from hotwire-reload)
+Started GET "/" for ::1 at 2024-11-21 10:16:35 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.4ms | Allocations: 1016)
+  Rendered /Users/nicolasenne/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/hotwire-livereload-1.4.1/app/views/hotwire/livereload/_head_action_cable.html.erb (Duration: 1.3ms | Allocations: 836)
+  Rendered layout layouts/application.html.erb (Duration: 32.1ms | Allocations: 30529)
+Completed 200 OK in 35ms (Views: 33.6ms | ActiveRecord: 0.0ms | Allocations: 31624)
+
+
+Started GET "/..." for ::1 at 2024-11-21 10:16:35 -0300
+Started GET "/cable" for ::1 at 2024-11-21 10:16:35 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/cable" [WebSocket] for ::1 at 2024-11-21 10:16:36 -0300
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: Upgrade, HTTP_UPGRADE: websocket)
+Hotwire::Livereload::ReloadChannel is transmitting the subscription confirmation
+Hotwire::Livereload::ReloadChannel is streaming from hotwire-reload
+[ActionCable] Broadcasting to hotwire-reload: {:changed=>["/Users/nicolasenne/code/rails-front-end/app/assets/stylesheets/components/_logo.scss"], :force_reload=>false}
+Hotwire::Livereload::ReloadChannel transmitting {"changed"=>["/Users/nicolasenne/code/rails-front-end/app/assets/stylesheets/components/_logo.scss"], "force_reload"=>false} (via streamed from hotwire-reload)
+Started GET "/" for ::1 at 2024-11-21 10:16:57 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.4ms | Allocations: 711)
+  Rendered /Users/nicolasenne/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/hotwire-livereload-1.4.1/app/views/hotwire/livereload/_head_action_cable.html.erb (Duration: 0.8ms | Allocations: 770)
+  Rendered layout layouts/application.html.erb (Duration: 13.9ms | Allocations: 9374)
+Completed 200 OK in 17ms (Views: 14.9ms | ActiveRecord: 0.0ms | Allocations: 9663)
+
+
+Unsubscribing from channel: {"channel":"Hotwire::Livereload::ReloadChannel"}
+Hotwire::Livereload::ReloadChannel stopped streaming from hotwire-reload
+Started GET "/..." for ::1 at 2024-11-21 10:16:57 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Hotwire::Livereload::ReloadChannel is transmitting the subscription confirmation
+Hotwire::Livereload::ReloadChannel is streaming from hotwire-reload
+[ActionCable] Broadcasting to hotwire-reload: {:changed=>["/Users/nicolasenne/code/rails-front-end/app/assets/stylesheets/components/_index.scss"], :force_reload=>false}
+Hotwire::Livereload::ReloadChannel transmitting {"changed"=>["/Users/nicolasenne/code/rails-front-end/app/assets/stylesheets/components/_index.scss"], "force_reload"=>false} (via streamed from hotwire-reload)
+Started GET "/" for ::1 at 2024-11-21 10:17:03 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.7ms | Allocations: 615)
+[ActionCable] Broadcasting to hotwire-reload: {:changed=>["/Users/nicolasenne/code/rails-front-end/app/assets/stylesheets/components/_index.scss"], :force_reload=>false}
+Hotwire::Livereload::ReloadChannel transmitting {"changed"=>["/Users/nicolasenne/code/rails-front-end/app/assets/stylesheets/components/_index.scss"], "force_reload"=>false} (via streamed from hotwire-reload)
+Started GET "/" for ::1 at 2024-11-21 10:17:06 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 0.6ms | Allocations: 615)
+  Rendered /Users/nicolasenne/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/hotwire-livereload-1.4.1/app/views/hotwire/livereload/_head_action_cable.html.erb (Duration: 0.8ms | Allocations: 770)
+  Rendered layout layouts/application.html.erb (Duration: 6908.3ms | Allocations: 168233)
+Completed 200 OK in 6909ms (Views: 6908.7ms | ActiveRecord: 0.0ms | Allocations: 168489)
+
+
+  Rendered /Users/nicolasenne/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/hotwire-livereload-1.4.1/app/views/hotwire/livereload/_head_action_cable.html.erb (Duration: 0.8ms | Allocations: 765)
+  Rendered layout layouts/application.html.erb (Duration: 3931.4ms | Allocations: 93911)
+Completed 200 OK in 3932ms (Views: 3931.6ms | ActiveRecord: 0.0ms | Allocations: 94161)
+
+
+Unsubscribing from channel: {"channel":"Hotwire::Livereload::ReloadChannel"}
+Hotwire::Livereload::ReloadChannel stopped streaming from hotwire-reload
+Started GET "/..." for ::1 at 2024-11-21 10:17:11 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Hotwire::Livereload::ReloadChannel is transmitting the subscription confirmation
+Hotwire::Livereload::ReloadChannel is streaming from hotwire-reload
+[ActionCable] Broadcasting to hotwire-reload: {:changed=>["/Users/nicolasenne/code/rails-front-end/app/assets/stylesheets/components/_logo.scss"], :force_reload=>false}
+Hotwire::Livereload::ReloadChannel transmitting {"changed"=>["/Users/nicolasenne/code/rails-front-end/app/assets/stylesheets/components/_logo.scss"], "force_reload"=>false} (via streamed from hotwire-reload)
+Started GET "/" for ::1 at 2024-11-21 10:17:12 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.5ms | Allocations: 615)
+  Rendered /Users/nicolasenne/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/hotwire-livereload-1.4.1/app/views/hotwire/livereload/_head_action_cable.html.erb (Duration: 1.1ms | Allocations: 773)
+  Rendered layout layouts/application.html.erb (Duration: 3665.9ms | Allocations: 82314)
+Completed 200 OK in 3667ms (Views: 3666.5ms | ActiveRecord: 0.0ms | Allocations: 82565)
+
+
+Unsubscribing from channel: {"channel":"Hotwire::Livereload::ReloadChannel"}
+Hotwire::Livereload::ReloadChannel stopped streaming from hotwire-reload
+Started GET "/..." for ::1 at 2024-11-21 10:17:16 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Hotwire::Livereload::ReloadChannel is transmitting the subscription confirmation
+Hotwire::Livereload::ReloadChannel is streaming from hotwire-reload
+Started GET "/" for ::1 at 2024-11-21 10:17:53 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 2.5ms | Allocations: 612)
+  Rendered /Users/nicolasenne/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/hotwire-livereload-1.4.1/app/views/hotwire/livereload/_head_action_cable.html.erb (Duration: 1.8ms | Allocations: 769)
+  Rendered layout layouts/application.html.erb (Duration: 14.4ms | Allocations: 9620)
+Completed 200 OK in 16ms (Views: 15.1ms | ActiveRecord: 0.0ms | Allocations: 9870)
+
+
+Finished "/cable" [WebSocket] for ::1 at 2024-11-21 10:17:53 -0300
+Hotwire::Livereload::ReloadChannel stopped streaming from hotwire-reload
+Started GET "/..." for ::1 at 2024-11-21 10:17:53 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/cable" for ::1 at 2024-11-21 10:17:54 -0300
+Started GET "/cable" [WebSocket] for ::1 at 2024-11-21 10:17:54 -0300
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: Upgrade, HTTP_UPGRADE: websocket)
+Unsubscribing from channel: {"channel":"Hotwire::Livereload::ReloadChannel"}
+Hotwire::Livereload::ReloadChannel stopped streaming from hotwire-reload
+Hotwire::Livereload::ReloadChannel is transmitting the subscription confirmation
+Hotwire::Livereload::ReloadChannel is streaming from hotwire-reload
+[ActionCable] Broadcasting to hotwire-reload: {:changed=>["/Users/nicolasenne/code/rails-front-end/app/assets/stylesheets/components/_logo.scss"], :force_reload=>false}
+Started GET "/" for ::1 at 2024-11-21 10:18:02 -0300
+Processing by PagesController#home as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/home.html.erb within layouts/application
+  Rendered pages/home.html.erb within layouts/application (Duration: 1.9ms | Allocations: 613)
+  Rendered /Users/nicolasenne/.rbenv/versions/3.1.2/lib/ruby/gems/3.1.0/gems/hotwire-livereload-1.4.1/app/views/hotwire/livereload/_head_action_cable.html.erb (Duration: 0.9ms | Allocations: 771)
+  Rendered layout layouts/application.html.erb (Duration: 3645.3ms | Allocations: 82491)
+Completed 200 OK in 3646ms (Views: 3645.8ms | ActiveRecord: 0.0ms | Allocations: 82742)
+
+
+Finished "/cable" [WebSocket] for ::1 at 2024-11-21 10:18:06 -0300
+Started GET "/..." for ::1 at 2024-11-21 10:18:06 -0300
+  
+ActionController::RoutingError (No route matches [GET] "/..."):
+  
+Started GET "/cable" for ::1 at 2024-11-21 10:18:06 -0300
+Started GET "/cable" [WebSocket] for ::1 at 2024-11-21 10:18:06 -0300
+Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: Upgrade, HTTP_UPGRADE: websocket)
+Hotwire::Livereload::ReloadChannel is transmitting the subscription confirmation
+Hotwire::Livereload::ReloadChannel is streaming from hotwire-reload
